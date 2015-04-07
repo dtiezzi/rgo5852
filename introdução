@@ -1,0 +1,8 @@
+# Installing packages
+install.packages("heatmap3") ## from cran.r 
+library(heatmap3)
+
+source("http://bioconductor.org/biocLite.R")
+biocLite("affy") ## from bioconductor
+library(affy)
+
