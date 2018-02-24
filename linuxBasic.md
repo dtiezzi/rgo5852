@@ -1,6 +1,6 @@
-#Basics on linux command line
+# Basics on linux command line
 
-##Daniel Tiezzi
+## Daniel Tiezzi
 
 **WELLCOME!**
 
